@@ -1,8 +1,8 @@
-## Interface: 30300
-## Title: Auc:Searcher:Insane
+## Interface: 11401
+## Title: Auc:Searcher:Insane Classic
 ## Notes: Allows searching of Auctioneer data for Insane items
-## Author: Cal Henderson (Bees on Hyjal-US)
-## Version: 1.4
+## Author: Renegadetrix Benediction-US
+## Version: 2.5.5
 ## LoadOnDemand: 0
 ## Disabled: 0
 ## Dependencies: Auc-Advanced
